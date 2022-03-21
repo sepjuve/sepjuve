@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sepjuve
 - 👀 I’m interested in Machine Learning, Cloud, Odoo
-- 🌱 I’m currently learning ML, OpenCV, PyTorch 
+- 🌱 I’m currently learning Flutter, ML, OpenCV, PyTorch 
 - 📫 sepjuve@yahoo.com
 
 <!---

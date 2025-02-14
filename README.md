@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sepjuve
-- 👀 I’m interested in Machine Learning, Cloud, Odoo
+- 👀 I’m interested in Machine Learning, Cloud, Odoo, Arduino
 - 🌱 I’m currently learning Flutter, ML, OpenCV, PyTorch 
-- 📫 sepjuve@yahoo.com
 
 <!---
 sepjuve/sepjuve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
